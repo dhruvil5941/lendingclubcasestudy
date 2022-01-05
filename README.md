@@ -7,7 +7,7 @@
 - i use Loan.csv to solve this business probleams 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Low grade is high chance to defualters 
+- Rented and morgaze home applicant high chance to be defualters
+- CA state applicant high chance to be defualters
+- Major applicant apply for debt_con. purpose they have major chances to be defualters 
